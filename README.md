@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chantel</h1>
-<h3 align="center">A self-taught developer from Boston</h3>
+<h3 align="center">A community-taught developer from Boston</h3>
 
 - 🔭 I’m currently working on **node image processing server**
 
