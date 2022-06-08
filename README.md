@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **node image processing server**
 
-- 🌱 I’m currently learning **API's, Microservices, Cloud Computing**
+- 🌱 I’m currently learning **API's, Microservices, cloud computing**
 
 - 👯 I’m looking to collaborate on **anything! Happy to help out in anyway I can and possibly learn something new.**
 
