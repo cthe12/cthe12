@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chantel</h1>
 <h3 align="center">A community-taught developer from Boston</h3>
 
-- 🔭 I’m currently working on **node image processing server**
+- 🔭 I’m currently working on **building the event website for TechTogether's upcoming Hackathon**
 
 - 🌱 I’m currently learning **API's, Microservices, cloud computing**
 
