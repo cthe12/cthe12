@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building the event website for TechTogether's upcoming Hackathon**
 
-- 🌱 I’m currently learning **API's, Microservices, cloud computing**
+- 🌱 I’m currently learning **AWS Cloud, Express, MongoDB**
 
 - 👯 I’m looking to collaborate on **anything! Happy to help out in anyway I can and possibly learn something new.**
 
