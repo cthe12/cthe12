@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chantel</h1>
+<h1 align="center">Hi 👋🏿, I'm Chantel</h1>
 <h3 align="center">A community-taught developer from Boston</h3>
 
 - 🔭 I’m currently working on **building the event website for TechTogether's upcoming Hackathon**
