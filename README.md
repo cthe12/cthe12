@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AWS Cloud, Express, MongoDB**
 
-- 👯 I’m looking to collaborate on **anything! Happy to help out in anyway I can and possibly learn something new.**
-
 - 🤝 I’m looking for help with **Jekyll and open source contributions**
 
 - 💬 Ask me about **my hobbies outside of coding**
