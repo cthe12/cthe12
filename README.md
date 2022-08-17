@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud, Express, MongoDB**
 
-- 🤝 I’m looking for help with **Jekyll and open source contributions**
+- 🤝 I’m looking for help with **open source contributions**
 
 - 💬 Ask me about **my hobbies outside of coding**
 
